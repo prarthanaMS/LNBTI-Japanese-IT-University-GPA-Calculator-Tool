@@ -38,20 +38,14 @@
 
 ---
 
-## 🚀 Getting Started
-
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/prarthanams/LNBTI-Japanese-IT-University-GPA-Calculator-Tool.git
-
-
----
-
 ## ✨ **Designed & Developed By**
 
-**Prarthana**  
+**Prarthana** 
 [GitHub → @prarthanams](https://github.com/prarthanams)
 
 ---
 
 > © 2025 LNBTI GPA Calculator – All Rights Reserved.
+
+
+
